@@ -7,31 +7,31 @@ Supply chain analytics plays a pivotal role in optimizing operations, reducing c
 
 **Data Source**
 
-The dataset for this project was obtained from the **Kaggle**. [Access it here]([https://data.police.uk/data/](https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset)).
+The dataset for this project was obtained from the **Kaggle**. [Access it here](https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset).
 
 The dataset is based on the supply chain of Makeup products. Below are all the features in the dataset:
 
-Product Type
-SKU
-Price
-Availability
-Number of products sold
-Revenue generated
-Customer demographics
-Stock levels
-Lead times
-Order quantities
-Shipping times
-Shipping carriers
-Shipping costs
-Supplier name
-Location
-Lead time
-Production volumes
-Manufacturing lead time
-Manufacturing costs
-Inspection results
-Defect rates
-Transportation modes
-Routes
+Product Type,
+SKU,
+Price,
+Availability,
+Number of products sold,
+Revenue generated,
+Customer demographics,
+Stock levels,
+Lead times,
+Order quantities,
+Shipping times,
+Shipping carriers,
+Shipping costs,
+Supplier name,
+Location,
+Lead time,
+Production volumes,
+Manufacturing lead time,
+Manufacturing costs,
+Inspection results,
+Defect rates,
+Transportation modes,
+Routes,
 Costs
